@@ -1,4 +1,4 @@
-![San Francisco Park Reading](Images/san-francisco-park-reading.jpg)
+![San Francisco Park Reading](Images/san-francisco-park-reading-1.jpg)
 
 # **Housing Rental Analysis for San Francisco**
 
